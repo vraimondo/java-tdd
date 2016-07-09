@@ -2,7 +2,8 @@
 ## Best Practices Using Java Examples
 
 ### Tennis Game
-Implement a simple tennis game
+> Implement a simple tennis game
+
 Rules:
 * Scores from zero to three points are described as “love”, “fifteen”, “thirty”, and “forty” respectively.
 * If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is “advantage” for the player in the lead.
