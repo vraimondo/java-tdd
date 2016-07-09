@@ -1,10 +1,10 @@
 # Test Driven Development (TDD): 
-# Best Practices Using Java Examples
+## Best Practices Using Java Examples
 
-###Tennis Game
+### Tennis Game
 Implement a simple tennis game
 
-### Rules:
+#### Rules:
 * Scores from zero to three points are described as “love”, “fifteen”, “thirty”, and “forty” respectively.
 * If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is “advantage” for the player in the lead.
 * If at least three points have been scored by each player, and the scores are equal, the score is “deuce”.
