@@ -2,7 +2,7 @@
 ## Best Practices Using Java Examples
 
 ### Tennis Game
-> Implement a simple tennis game
+Implement a simple tennis game
 
 Rules:
 * Scores from zero to three points are described as “love”, “fifteen”, “thirty”, and “forty” respectively.
